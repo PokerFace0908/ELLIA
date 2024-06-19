@@ -13,27 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "前言.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5d842e106d79978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "简略教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56d3c65e203d3a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "结构.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "db03e20e582a379c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "59f90ab395822280",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "结构.md"
               }
             }
           }
@@ -160,11 +171,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "18145f166ef7c160",
+  "active": "56d3c65e203d3a0b",
   "lastOpenFiles": [
+    "图片test.md",
+    "IMG_4633.jpg",
+    "简略教程.md",
+    "前言.md",
+    "结构.md",
+    "氪金教程.md",
+    "ELLIA新音游宣传以及群宣.md",
     "netlify~.toml",
     "netlify.toml.sb-470f75af-OiJcR7",
-    "netlify.toml",
-    "Welcome.md"
+    "netlify.toml"
   ]
 }
