@@ -6,9 +6,9 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "点击以进入"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = ""
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "结构"
+LANDING_PAGE = "简略教程"
 # (Optional) Site title on landing page
 LANDING_TITLE = "最全最详细的ELLIA入坑中文教程^ω^"
 PYTHON_VERSION = "3.8"
@@ -30,9 +30,9 @@ GANALYTICS = ""
 # (Optional, default true) Slugify URLs. Put "" to disable.
 SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
-HOME_GRAPH = "y"
+HOME_GRAPH = ""
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
-PAGE_GRAPH = "y"
+PAGE_GRAPH = ""
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.

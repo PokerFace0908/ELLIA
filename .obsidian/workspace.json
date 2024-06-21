@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "结构.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -185,23 +185,24 @@
   },
   "active": "e0521db7d7b07754",
   "lastOpenFiles": [
+    "简略教程.md",
+    "结构.md",
+    "其他类型文件test.md",
+    "前言.md",
     "氪金教程.md",
+    "DLC曲包(Collection).md",
     "IMG_4991.jpg",
     "IMG_4990.jpg",
     "IMG_4988 1.jpg",
     "IMG_4989.jpg",
     "IMG_4988.jpg",
     "IMG_4987.jpg",
-    "结构.md",
-    "简略教程.md",
     "httpsellia-console.teamarcstar.com 3.jpeg",
     "httpsellia-console.teamarcstar.com 2.jpeg",
     "httpsellia-console.teamarcstar.com.jpeg",
     "httpssecure.xsolla.compaystation4paymentcredit-cardtoken=feqsWjIw1tKTDfvAQkbM7KI71oipeqyR_lc_en_bg_FFFFFF_tb_3D46F5.jpeg",
-    "其他类型文件test.md",
     "ELLIA新音游宣传以及群宣.md",
     "图片test.md",
-    "前言.md",
     "netlify~.toml",
     "netlify.toml.sb-470f75af-OiJcR7",
     "netlify.toml"
