@@ -8,7 +8,7 @@ LANDING_BUTTON = "点击以进入"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = ""
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "Why ELLIA"
+LANDING_PAGE = "why-ellia"
 # (Optional) Site title on landing page
 LANDING_TITLE = "最全最详细的ELLIA入坑中文教程^ω^"
 PYTHON_VERSION = "3.8"
