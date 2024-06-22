@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前言.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5d842e106d79978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "如何下载游戏？.md",
+                "file": "Why ELLIA.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "图片test.md",
+                "file": "Why ELLIA.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "结构.md",
+                "file": "季票(Season Pass).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "结构.md",
+                "file": "Why ELLIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "结构.md",
+                "file": "Why ELLIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "结构.md"
+                "file": "Why ELLIA.md"
               }
             }
           }
@@ -183,18 +171,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e0521db7d7b07754",
+  "active": "56d3c65e203d3a0b",
   "lastOpenFiles": [
-    "氪金教程.md",
+    "IMG_4633.jpg",
+    "Why ELLIA.md",
+    "季票(Season Pass).md",
     "结构.md",
-    "如何下载游戏？.md",
+    "氪金教程.md",
     "其他类型文件test.md",
     "前言.md",
-    "季票(Season Pass).md",
-    "Why ELLIA.md",
-    "netlify~.toml",
-    "DLC曲包(Collections).md",
+    "如何下载游戏？.md",
     "图片test.md",
+    "DLC曲包(Collections).md",
+    "netlify~.toml",
     "IMG_4991.jpg",
     "IMG_4990.jpg",
     "IMG_4988 1.jpg",
