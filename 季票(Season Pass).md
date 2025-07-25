@@ -1,5 +1,5 @@
 #### 1. Season(赛季)介绍
-- ELLIA中的Season类似于街机音游中的赛季/大版本更新，如MaiMai的FESTiVAL，FESTiVAL +，BUDDiES
+- ELLIA中的Season类似于街机音游中的赛季/大版本更新，如MaiMai的FESTiVAL，FESTiVAL+，BUDDiES
 - 赛季更新会伴随着**新内容**，以及**UI和BGM的更新**
 - Season概念的引入是为了游戏的持续发展，因此持续游玩ELLIA可以不断体验到新的内容，以后可能会引入**段位模式**以及**解锁特殊内容的特殊模式**
 

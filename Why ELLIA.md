@@ -8,9 +8,9 @@
 ### 游戏特色：
 - ##### 超可爱白毛三无Live2D看板娘（prpr
 - ##### 超豪华曲师阵容：
-	- litmus*, 打打だいず, Halv, 打打だいず, RUQOA, Reku Mochizuki等
-- ##### 本体免费，定期更新免费内容
-- ##### 超硬核判定，perfect为42ms，acc100为8ms
+	- litmus*, 打打だいず, Halv, Sakuzyo, ak+q, Reku Mochizuki等
+- ##### 本体免费，超80首免费歌曲且不定期更新免费内容
+- ##### 超硬核判定，perfect为43ms，acc100为8ms
 - ##### 支持微信/支付宝/银行卡支付
 - 超一半的原创音乐曲目
 - 超多首的litmus* 经典曲目以及原创曲目（litmus* 厨狂喜
