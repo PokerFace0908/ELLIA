@@ -1,0 +1,4 @@
+unpublished/
+unpublished/
+unpgit rm -r --cached unpublished/
+git commit -m "remove unpublished folder from giublished/
